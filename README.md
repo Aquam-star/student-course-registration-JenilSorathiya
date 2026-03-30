@@ -78,6 +78,25 @@ Open `frontend/signup.html` using Live Server or browser.
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+<img width="1920" height="1080" alt="Screenshot (661)" src="https://github.com/user-attachments/assets/567a8061-3cb5-4240-8d6e-b6957c368669" />
+
+
+### 📝 Signup Page
+<img width="1920" height="1080" alt="Screenshot (660)" src="https://github.com/user-attachments/assets/b6ed9669-9a27-4f3b-8556-f581a13f9d08" />
+
+### 📚 Courses Page
+<img width="1920" height="1080" alt="Screenshot (658)" src="https://github.com/user-attachments/assets/e801a636-86ae-49a1-b47a-c882e659d2e0" />
+
+
+### 🎓 Enrollment Page
+<img width="1920" height="1080" alt="Screenshot (658)" src="https://github.com/user-attachments/assets/6dc4b65e-fdf8-4f4b-aad8-073ebe881a44" />
+
+
+
+
 ## 🎯 Future Improvements
 
 - 📊 My Courses Dashboard  
