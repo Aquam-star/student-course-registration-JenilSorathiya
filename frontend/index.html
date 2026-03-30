@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard | Student Portal</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- Navbar -->
+<div class="navbar">
+    <h2>🎓 Student Portal</h2>
+    <button onclick="logout()">Logout</button>
+</div>
+
+<!-- Welcome -->
+<h3 id="welcome"></h3>
+
+<!-- Courses -->
+<div id="courses"></div>
+
+<!-- Footer -->
+<footer class="footer">
+    Made by Jenil Sorathiya
+</footer>
+
+<script src="script.js"></script>
+<script>
+    loadCourses();
+</script>
+
+</body>
+</html>
