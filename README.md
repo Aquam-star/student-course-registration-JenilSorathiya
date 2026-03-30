@@ -81,18 +81,22 @@ Open `frontend/signup.html` using Live Server or browser.
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-<img width="1920" height="1080" alt="Screenshot (661)" src="https://github.com/user-attachments/assets/567a8061-3cb5-4240-8d6e-b6957c368669" />
+<img width="1920" height="897" alt="Screenshot (660)" src="https://github.com/user-attachments/assets/77abd18f-12ee-4aeb-bfc2-fba50ea079c9" />
+
 
 
 ### 📝 Signup Page
-<img width="1920" height="1080" alt="Screenshot (660)" src="https://github.com/user-attachments/assets/b6ed9669-9a27-4f3b-8556-f581a13f9d08" />
+<img width="1920" height="900" alt="Screenshot (661)" src="https://github.com/user-attachments/assets/51ce4805-a750-4a45-8063-ae9bd11f75d0" />
+
 
 ### 📚 Courses Page
-<img width="1920" height="1080" alt="Screenshot (658)" src="https://github.com/user-attachments/assets/e801a636-86ae-49a1-b47a-c882e659d2e0" />
+<img width="1920" height="918" alt="Screenshot (658)" src="https://github.com/user-attachments/assets/ee082c32-e741-4d94-b1c2-cea3a28e030e" />
+
 
 
 ### 🎓 Enrollment Page
-<img width="1920" height="1080" alt="Screenshot (658)" src="https://github.com/user-attachments/assets/6dc4b65e-fdf8-4f4b-aad8-073ebe881a44" />
+<img width="1920" height="918" alt="Screenshot (658)" src="https://github.com/user-attachments/assets/f9c0c6e1-03fd-451f-bf87-f17033ef25f6" />
+
 
 
 
